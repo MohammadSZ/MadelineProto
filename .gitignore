@@ -116,7 +116,7 @@ madeline.php
 .vscode/*
 .vscode
 custom.md
-composer.lock
+composer.json
 phpunit.xml
 vendor
 .php_cs.cache
