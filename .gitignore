@@ -95,7 +95,7 @@ sessions
 docs_md
 
 .env
-composer.lock
+composer.json
 b.php
 *.log
 telegram-cli*
