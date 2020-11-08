@@ -95,7 +95,6 @@ sessions
 docs_md
 
 .env
-composer.json
 b.php
 *.log
 telegram-cli*
@@ -116,7 +115,6 @@ madeline.php
 .vscode/*
 .vscode
 custom.md
-composer.json
 phpunit.xml
 vendor
 .php_cs.cache
